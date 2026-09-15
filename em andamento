@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kairós</title>
+</head>
+<body>
+    <h1>Kairós</h1>
+    <p>Loja Virtual de Promoções e Gift Cards para Games</p>
+    <ul>
+        <li>Lista de Jogos</li>
+        <li>Promoções</li>
+        <li>Carrinho</li>
+        <li>Cupons</li>
+        <li>Gift Cards </li>
+        <li>Contate a Loja</li>
+    </ul>
+
+    <!-- Tabela 1: Jogos em Destaque -->
+    <h2>Jogos em Destaque </h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Jogo</th>
+                <th>Desconto / Preço</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Metroid Dread (Nintendo Switch)</td>
+                <td>50% OFF (149,90)</td>
+            </tr>
+            <tr>
+                <td>Goddess of Victory: NIKKE (Pacote Inicial)</td>
+                <td>30% OFF (29,90)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Tabela 2: Gift Cards -->
+     <h2>Gift Cards Disponíveis</h2>
+     <table>
+        <thead>
+            <tr>
+                <th>Gift Card</th>
+                <th>Preço</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Nintendo eShop Card</td>
+                <td>R$ 100,00 (Cashback de 5%)</td>
+            </tr>
+            <tr>
+                <td>Xbox Gamepass Ultimate (1 Mês)</td>
+                <td>R$ 49,90 (Disponível)</td>
+            </tr>
+        </tbody>
+     </table>
+     <!-- LInk para fonte externa-->
+      <p>
+        Confira mais Ofertas Oficiais na
+        <a href="http://www.nintendo.com/store/" target="_blank" rel="noopener noreferrer">Nintendo eShop</a>
+      </p>
+</body>
+</html>
